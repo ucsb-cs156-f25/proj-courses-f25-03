@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f25/proj-courses-f25-03
 owner: ucsb-cs156-f25
 repo_name: proj-courses-f25-03
-pull_requests: []
+pull_requests: [{"author":{"id":"U_kgDOCM7fCA","is_bot":false,"login":"ChenchangWang1018","name":""},"headRefName":"Chenchang-#9","number":21,"title":"Fix to H2 properties to allow multiple connections","url":"https://github.com/ucsb-cs156-f25/proj-courses-f25-03/pull/21"}]
