@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f25/proj-courses-f25-03
 owner: ucsb-cs156-f25
 repo_name: proj-courses-f25-03
-pull_requests: [{"author":{"id":"MDQ6VXNlcjg3MjU4Mjc1","is_bot":false,"login":"adamw3455","name":""},"headRefName":"Paginate-Job-Log-Table-Frontend","number":24,"title":"Paginate Job Log Table with search form, fix bug in job pagination en…","url":"https://github.com/ucsb-cs156-f25/proj-courses-f25-03/pull/24"}]
+pull_requests: [{"author":{"id":"MDQ6VXNlcjg3MjU4Mjc1","is_bot":false,"login":"adamw3455","name":""},"headRefName":"Fix-Hardcoded-Incorrect-Backup-Link","number":25,"title":"Replace backup link with updated url","url":"https://github.com/ucsb-cs156-f25/proj-courses-f25-03/pull/25"},{"author":{"id":"MDQ6VXNlcjg3MjU4Mjc1","is_bot":false,"login":"adamw3455","name":""},"headRefName":"Paginate-Job-Log-Table-Frontend","number":24,"title":"Paginate Job Log Table with search form, fix bug in job pagination en…","url":"https://github.com/ucsb-cs156-f25/proj-courses-f25-03/pull/24"}]
