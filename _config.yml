@@ -23,4 +23,4 @@ repo_name: "TBD"
 repo: ucsb-cs156-f25/proj-courses-f25-03
 owner: ucsb-cs156-f25
 repo_name: proj-courses-f25-03
-pull_requests: [{"author":{"id":"U_kgDOClGZww","is_bot":false,"login":"JoshuaChu2004","name":""},"headRefName":"Joshua-CoursesUserPaginationBackend","number":44,"title":"Joshua Add User Pagination Backend Endpoint","url":"https://github.com/ucsb-cs156-f25/proj-courses-f25-03/pull/44"}]
+pull_requests: []
